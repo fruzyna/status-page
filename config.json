@@ -1,10 +1,11 @@
 {
     "Public": {
         "Personal Site": "https://fruzyna.net",
-        "OTD Calculator": "https://otd.fruzyna.net",
         "Home Assistant": "https://hass.fruzyna.net",
         "Homepage": "https://homepage.fruzyna.net",
-        "Wiki": "https://wiki.fruzyna.net",
+        "Anyraces": "https://races.fruzyna.net",
+        "Next Metra": "https://metra.fruzyna.net",
+        "OTD Calculator": "https://otd.fruzyna.net",
         "Files": "https://files.fruzyna.net",
         "Status": "https://status.fruzyna.net",
         "Avatar": "https://avatar.fruzyna.net",
@@ -15,16 +16,19 @@
         "WildRank Testing": "https://wildrank.wildstang.dev",
         "LiamRank": "https://wildrank.fruzyna.net",
         "WS Links": "https://links.wildstang.dev",
-        "Robot Docs": "https://docs.wildstang.dev"
+        "Robot Docs": "https://docs.wildstang.dev",
+        "Alumni": "https://wsalumni.org"
     },
     "VPN": {
         "Finances": "https://finance.fruzyna.net",
-        "Gitea": "https://git.fruzyna.net",
+        "Wiki": "https://wiki.fruzyna.net",
         "Miniflux": "https://rss.fruzyna.net",
         "Photos": "https://photos.fruzyna.net",
         "Jellyfin": "https://stream.fruzyna.net",
+        "Gitea": "https://git.fruzyna.net",
+        "Speed Test": "https://speed.fruzyna.net",
         "Links": "https://links.fruzyna.net",
-        "Emulator": "https://emulator.fruzyna.net"
+        "Baikal": "https://dav.fruzyna.net"
     },
     "Devices": {
         "Router": "https://router.fruzyna.net",
