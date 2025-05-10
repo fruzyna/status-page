@@ -1,34 +1,30 @@
 {
     "Public": {
         "Personal Site": "https://fruzyna.net",
+        "Files": "https://files.fruzyna.net",
         "Home Assistant": "https://hass.fruzyna.net",
         "Homepage": "https://homepage.fruzyna.net",
-        "Anyraces": "https://races.fruzyna.net",
         "Next Metra": "https://metra.fruzyna.net",
         "OTD Calculator": "https://otd.fruzyna.net",
-        "Files": "https://files.fruzyna.net",
-        "Status": "https://status.fruzyna.net",
-        "Avatar": "https://avatar.fruzyna.net",
-        "Big Poppa": "https://bigpoppa.meme"
+        "Photos": "https://photos.fruzyna.net",
+        "Anyraces": "https://races.fruzyna.net",
+        "Status": "https://status.fruzyna.net"
     },
     "WildStang": {
-        "WildRank": "https://wildrank.app",
-        "WildRank Testing": "https://wildrank.wildstang.dev",
-        "LiamRank": "https://wildrank.fruzyna.net",
-        "WS Links": "https://links.wildstang.dev",
         "Robot Docs": "https://docs.wildstang.dev",
-        "Alumni": "https://wsalumni.org"
+        "WildRank": "https://wildrank.app",
+        "LiamRank": "https://wildrank.fruzyna.net",
+        "WildRank Testing": "https://wildrank.wildstang.dev"
     },
     "VPN": {
+        "Baikal": "https://dav.fruzyna.net",
         "Finances": "https://finance.fruzyna.net",
-        "Wiki": "https://wiki.fruzyna.net",
-        "Miniflux": "https://rss.fruzyna.net",
-        "Photos": "https://photos.fruzyna.net",
-        "Jellyfin": "https://stream.fruzyna.net",
         "Gitea": "https://git.fruzyna.net",
+        "Music Assistant": "https://music.fruzyna.net",
+        "Miniflux": "https://rss.fruzyna.net",
         "Speed Test": "https://speed.fruzyna.net",
-        "Links": "https://links.fruzyna.net",
-        "Baikal": "https://dav.fruzyna.net"
+        "Jellyfin": "https://stream.fruzyna.net",
+        "Wiki": "https://wiki.fruzyna.net"
     },
     "Devices": {
         "Router": "https://router.fruzyna.net",
